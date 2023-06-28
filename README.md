@@ -1,4 +1,4 @@
-Hi 👋 I'm Sanjeevan Aloysius
+Hi <span class="wave">👋</span> I'm Sanjeevan Aloysius
 ____________________________________________________________________________________
 An Enthusiastic Software Engineering Undergraduate from SLIIT
 
