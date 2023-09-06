@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21023446&label=Profile%20views&color=0e75b6&style=flat" alt="it21023446" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me **santhurustr@gmail.com**
 
