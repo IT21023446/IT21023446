@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevanaloysius&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevanaloysius" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevanaloysius" alt="sanjeevanaloysius" /></a> </p>
-
 - 🌱 I’m currently learning **Mobile Application Development(Flutter,React Native)**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/sanjeevan-aloysius](www.linkedin.com/in/sanjeevan-aloysius)
